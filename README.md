@@ -4,6 +4,8 @@
 
 A full-stack task manager: a React frontend talking to an Express REST API backed by PostgreSQL.
 
+**🔗 Live demo: [fa-code-todo.vercel.app](https://fa-code-todo.vercel.app)** (runs in demo mode, so tasks are saved in your browser)
+
 ![Todo App screenshot](docs/screenshot.png)
 
 ## Features
